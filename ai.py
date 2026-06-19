@@ -16,7 +16,7 @@ Rules:
 - No explanation
 - No markdown
 - Assume Windows PowerShell or CMD
-
+(Im the goat)
 Request:
 {query}
 """
